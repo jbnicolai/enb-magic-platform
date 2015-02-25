@@ -20,7 +20,7 @@
     "enb-magic-factory": ">= 0.4.0 < 1.0.0"
   },
   "dependencies": {
-    "chalk": "0.5.1",
+    "chalk": "1.0.0",
     "coa": "1.0.0",
     "connect": "3.3.4",
     "serve-favicon": "2.2.0",
